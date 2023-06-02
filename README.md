@@ -9,7 +9,8 @@ I have named this version 6.1.2. If the original maintainer wants to merge these
 
 Note: I did not go through all of the language strings. If your language is missing, after installing, you can edit the strings.po file under /resources/language/resource.language.[xx] and add...
 
+<pre>
 msgctxt "#32006"
 msgid "Copy Movie Posters"
 msgstr "insert your language here"
-
+</pre>
